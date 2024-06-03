@@ -21,4 +21,7 @@ Pizza sales using SQL involves defining various aspects of the sales process, in
 * Analyze the cumulative revenue generated over time.
 * Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
-![image](https://github.com/saurav0109/pizza-sales---SQL/assets/95297724/e4636349-2aad-4460-a7cc-006f483abe64)
+
+![Screenshot 2024-06-04 021354](https://github.com/saurav0109/pizza-sales---SQL/assets/95297724/ca5b3c61-71e6-47fc-8f35-01a39a6c5c79)
+
+
